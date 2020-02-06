@@ -1,0 +1,486 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Создано Microsoft Visio, экспорт SVG Форма 5 [A1-альбомный].svg A1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="33.1102in" height="23.3858in"
+		viewBox="0 0 2383.94 1683.78" xml:space="preserve" color-interpolation-filters="sRGB" class="st11">
+	<title>РћСЃРЅРѕРІРЅС‹Рµ РЅР°РґРїРёСЃРё Рё РґРѕРїРѕР»РЅРёС‚РµР»СЊРЅС‹Рµ РіСЂР°С„С‹ Рє РЅРёРј РїРѕ Р“РћРЎРў 21.1101-2013 Р¤РѕСЂРјР° 5</title>
+	<v:documentProperties v:langID="1049" v:metric="true" v:viewMarkup="false">
+		<v:userDefs>
+			<v:ud v:nameU="msvNoAutoConnect" v:val="VT0(1):26"/>
+		</v:userDefs>
+	</v:documentProperties>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:#000000;stroke-width:1.98425}
+		.st2 {fill:none;stroke:#000000;stroke-width:0.850394}
+		.st3 {fill:none;stroke:#ffffff;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st4 {fill:#ffffff;stroke:#000000;stroke-width:1.98425}
+		.st5 {fill:#ffffff;stroke:#000000;stroke-linecap:butt;stroke-width:1.98425}
+		.st6 {stroke:#000000;stroke-linecap:butt;stroke-width:1.98425}
+		.st7 {stroke:#000000;stroke-width:1.98425}
+		.st8 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.75}
+		.st9 {fill:#000000;font-family:ISOCPEUR;font-size:0.833336em}
+		.st10 {fill:#ffffff;stroke:#000000;stroke-linecap:butt;stroke-width:1.98}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="12" v:index="4" v:groupContext="foregroundPage">
+		<title>A1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<v:layer v:name="Подписи" v:index="0" v:visibility="hidden" v:print="false"/>
+		<v:layer v:name="Дополнительные графы" v:index="1" v:visibility="hidden" v:print="false"/>
+		<v:layer v:name="Основные линии" v:index="2"/>
+		<v:layer v:name="Тонкие линии" v:index="3"/>
+		<v:layer v:name="Нумерация в углу" v:index="4"/>
+		<g id="shape1-1" v:mID="1" v:groupContext="shape" v:layerMember="2" transform="translate(56.6929,-14.1732)">
+			<title>Лист.1</title>
+			<rect x="0" y="28.3465" width="2313.07" height="1655.43" class="st1"/>
+		</g>
+		<g id="group2-3" transform="translate(1845.35,-14.1732)" v:mID="2" v:groupContext="group" v:layerMember="3">
+			<title>Лист.2</title>
+			<g id="shape3-4" v:mID="3" v:groupContext="shape" v:layerMember="3" transform="translate(382.677,0)">
+				<title>Лист.3</title>
+				<rect x="0" y="1641.26" width="141.732" height="42.5197" class="st2"/>
+			</g>
+			<g id="shape4-6" v:mID="4" v:groupContext="shape" v:layerMember="3" transform="translate(382.677,-42.5197)">
+				<title>Лист.4</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape5-8" v:mID="5" v:groupContext="shape" v:layerMember="3" transform="translate(425.197,-42.5197)">
+				<title>Лист.5</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape6-10" v:mID="6" v:groupContext="shape" v:layerMember="3" transform="translate(467.717,-42.5197)">
+				<title>Лист.6</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape7-12" v:mID="7" v:groupContext="shape" v:layerMember="3" transform="translate(382.677,-56.6929)">
+				<title>Лист.7</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape8-14" v:mID="8" v:groupContext="shape" v:layerMember="3" transform="translate(425.197,-56.6929)">
+				<title>Лист.8</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape9-16" v:mID="9" v:groupContext="shape" v:layerMember="3" transform="translate(467.717,-56.6929)">
+				<title>Лист.9</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape10-18" v:mID="10" v:groupContext="shape" v:layerMember="3" transform="translate(184.252,0)">
+				<title>Лист.10</title>
+				<rect x="0" y="1612.91" width="198.425" height="70.8661" class="st2"/>
+			</g>
+			<g id="shape11-20" v:mID="11" v:groupContext="shape" v:layerMember="3" transform="translate(184.252,-70.8661)">
+				<title>Лист.11</title>
+				<rect x="0" y="1641.26" width="340.157" height="42.5197" class="st2"/>
+			</g>
+			<g id="shape12-22" v:mID="12" v:groupContext="shape" v:layerMember="3" transform="translate(155.906,0)">
+				<title>Лист.12</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape13-24" v:mID="13" v:groupContext="shape" v:layerMember="3" transform="translate(155.906,-14.1732)">
+				<title>Лист.13</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape14-26" v:mID="14" v:groupContext="shape" v:layerMember="3" transform="translate(155.906,-28.3465)">
+				<title>Лист.14</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape15-28" v:mID="15" v:groupContext="shape" v:layerMember="3" transform="translate(155.906,-42.5197)">
+				<title>Лист.15</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape16-30" v:mID="16" v:groupContext="shape" v:layerMember="3" transform="translate(155.906,-56.6929)">
+				<title>Лист.16</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape17-32" v:mID="17" v:groupContext="shape" v:layerMember="3" transform="translate(155.906,-70.8661)">
+				<title>Лист.17</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape18-34" v:mID="18" v:groupContext="shape" v:layerMember="3" transform="translate(155.906,-85.0394)">
+				<title>Лист.18</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape19-36" v:mID="19" v:groupContext="shape" v:layerMember="3" transform="translate(155.906,-99.2126)">
+				<title>Лист.19</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape20-38" v:mID="20" v:groupContext="shape" v:layerMember="3" transform="translate(113.386,0)">
+				<title>Лист.20</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape21-40" v:mID="21" v:groupContext="shape" v:layerMember="3" transform="translate(113.386,-14.1732)">
+				<title>Лист.21</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape22-42" v:mID="22" v:groupContext="shape" v:layerMember="3" transform="translate(113.386,-28.3465)">
+				<title>Лист.22</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape23-44" v:mID="23" v:groupContext="shape" v:layerMember="3" transform="translate(113.386,-42.5197)">
+				<title>Лист.23</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape24-46" v:mID="24" v:groupContext="shape" v:layerMember="3" transform="translate(113.386,-56.6929)">
+				<title>Лист.24</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape25-48" v:mID="25" v:groupContext="shape" v:layerMember="3" transform="translate(113.386,-70.8661)">
+				<title>Лист.25</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape26-50" v:mID="26" v:groupContext="shape" v:layerMember="3" transform="translate(113.386,-85.0394)">
+				<title>Лист.26</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape27-52" v:mID="27" v:groupContext="shape" v:layerMember="3" transform="translate(113.386,-99.2126)">
+				<title>Лист.27</title>
+				<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape28-54" v:mID="28" v:groupContext="shape" v:layerMember="3" transform="translate(56.6929,0)">
+				<title>Лист.28</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape29-56" v:mID="29" v:groupContext="shape" v:layerMember="3" transform="translate(56.6929,-14.1732)">
+				<title>Лист.29</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape30-58" v:mID="30" v:groupContext="shape" v:layerMember="3" transform="translate(56.6929,-28.3465)">
+				<title>Лист.30</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape31-60" v:mID="31" v:groupContext="shape" v:layerMember="3" transform="translate(56.6929,-42.5197)">
+				<title>Лист.31</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape32-62" v:mID="32" v:groupContext="shape" v:layerMember="3" transform="translate(56.6929,-56.6929)">
+				<title>Лист.32</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape33-64" v:mID="33" v:groupContext="shape" v:layerMember="3" transform="translate(56.6929,-70.8661)">
+				<title>Лист.33</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape34-66" v:mID="34" v:groupContext="shape" v:layerMember="3" transform="translate(85.0394,-70.8661)">
+				<title>Лист.34</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape35-68" v:mID="35" v:groupContext="shape" v:layerMember="3" transform="translate(56.6929,-85.0394)">
+				<title>Лист.35</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape36-70" v:mID="36" v:groupContext="shape" v:layerMember="3" transform="translate(85.0394,-85.0394)">
+				<title>Лист.36</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape37-72" v:mID="37" v:groupContext="shape" v:layerMember="3" transform="translate(56.6929,-99.2126)">
+				<title>Лист.37</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape38-74" v:mID="38" v:groupContext="shape" v:layerMember="3" transform="translate(85.0394,-99.2126)">
+				<title>Лист.38</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape39-76" v:mID="39" v:groupContext="shape" v:layerMember="3">
+				<title>Лист.39</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape40-78" v:mID="40" v:groupContext="shape" v:layerMember="3" transform="translate(-3.19744E-14,-14.1732)">
+				<title>Лист.40</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape41-80" v:mID="41" v:groupContext="shape" v:layerMember="3" transform="translate(-3.19744E-14,-28.3465)">
+				<title>Лист.41</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape42-82" v:mID="42" v:groupContext="shape" v:layerMember="3" transform="translate(-3.19744E-14,-42.5197)">
+				<title>Лист.42</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape43-84" v:mID="43" v:groupContext="shape" v:layerMember="3" transform="translate(-3.19744E-14,-56.6929)">
+				<title>Лист.43</title>
+				<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape44-86" v:mID="44" v:groupContext="shape" v:layerMember="3" transform="translate(28.3465,-70.8661)">
+				<title>Лист.44</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape45-88" v:mID="45" v:groupContext="shape" v:layerMember="3" transform="translate(-5.19584E-14,-70.8661)">
+				<title>Лист.45</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape46-90" v:mID="46" v:groupContext="shape" v:layerMember="3" transform="translate(28.3465,-85.0394)">
+				<title>Лист.46</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape47-92" v:mID="47" v:groupContext="shape" v:layerMember="3" transform="translate(-5.19584E-14,-85.0394)">
+				<title>Лист.47</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape48-94" v:mID="48" v:groupContext="shape" v:layerMember="3" transform="translate(28.3465,-99.2126)">
+				<title>Лист.48</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+			<g id="shape49-96" v:mID="49" v:groupContext="shape" v:layerMember="3" transform="translate(-5.19584E-14,-99.2126)">
+				<title>Лист.49</title>
+				<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st2"/>
+			</g>
+		</g>
+		<g id="shape50-98" v:mID="50" v:groupContext="shape">
+			<title>Лист.50</title>
+			<rect x="0" y="0" width="2383.94" height="1683.78" class="st3"/>
+		</g>
+		<g id="group51-100" transform="translate(22.6772,-14.1732)" v:mID="51" v:groupContext="group" v:layerMember="2">
+			<title>Лист.51</title>
+			<g id="shape52-101" v:mID="52" v:groupContext="shape" v:layerMember="2" transform="translate(14.1732,0)">
+				<title>Лист.52</title>
+				<rect x="0" y="1612.91" width="19.8425" height="70.8661" class="st4"/>
+			</g>
+			<g id="shape53-103" v:mID="53" v:groupContext="shape" v:layerMember="2">
+				<title>Лист.53</title>
+				<rect x="0" y="1612.91" width="14.1732" height="70.8661" class="st4"/>
+			</g>
+			<g id="shape54-105" v:mID="54" v:groupContext="shape" v:layerMember="2" transform="translate(3.9968E-15,-70.8661)">
+				<title>Лист.54</title>
+				<rect x="0" y="1584.57" width="14.1732" height="99.2126" class="st4"/>
+			</g>
+			<g id="shape55-107" v:mID="55" v:groupContext="shape" v:layerMember="2" transform="translate(14.1732,-70.8661)">
+				<title>Лист.55</title>
+				<rect x="0" y="1584.57" width="19.8425" height="99.2126" class="st4"/>
+			</g>
+			<g id="shape56-109" v:mID="56" v:groupContext="shape" v:layerMember="2" transform="translate(3.9968E-15,-170.079)">
+				<title>Лист.56</title>
+				<rect x="0" y="1612.91" width="14.1732" height="70.8661" class="st4"/>
+			</g>
+			<g id="shape57-111" v:mID="57" v:groupContext="shape" v:layerMember="2" transform="translate(14.1732,-170.079)">
+				<title>Лист.57</title>
+				<rect x="0" y="1612.91" width="19.8425" height="70.8661" class="st4"/>
+			</g>
+		</g>
+		<g id="group58-113" transform="translate(14.1732,-255.118)" v:mID="58" v:groupContext="group" v:layerMember="1">
+			<title>Лист.58</title>
+			<g id="shape59-114" v:mID="59" v:groupContext="shape" v:layerMember="1" transform="translate(28.3465,0)" display="none">
+				<title>Лист.59</title>
+				<rect x="0" y="1627.09" width="14.1732" height="56.6929" class="st5"/>
+			</g>
+			<g id="shape60-116" v:mID="60" v:groupContext="shape" v:layerMember="1" transform="translate(14.1732,0)" display="none">
+				<title>Лист.60</title>
+				<rect x="0" y="1627.09" width="14.1732" height="56.6929" class="st5"/>
+			</g>
+			<g id="shape61-118" v:mID="61" v:groupContext="shape" v:layerMember="1" display="none">
+				<title>Лист.61</title>
+				<rect x="0" y="1499.53" width="14.1732" height="184.252" class="st5"/>
+			</g>
+			<g id="shape62-120" v:mID="62" v:groupContext="shape" v:layerMember="1" transform="translate(28.3465,-56.6929)"
+					display="none">
+				<title>Лист.62</title>
+				<rect x="0" y="1627.09" width="14.1732" height="56.6929" class="st5"/>
+			</g>
+			<g id="shape63-122" v:mID="63" v:groupContext="shape" v:layerMember="1" transform="translate(14.1732,-56.6929)"
+					display="none">
+				<title>Лист.63</title>
+				<rect x="0" y="1627.09" width="14.1732" height="56.6929" class="st5"/>
+			</g>
+			<g id="shape64-124" v:mID="64" v:groupContext="shape" v:layerMember="1" transform="translate(28.3465,-113.386)"
+					display="none">
+				<title>Лист.64</title>
+				<rect x="0" y="1641.26" width="14.1732" height="42.5197" class="st5"/>
+			</g>
+			<g id="shape65-126" v:mID="65" v:groupContext="shape" v:layerMember="1" transform="translate(14.1732,-113.386)"
+					display="none">
+				<title>Лист.65</title>
+				<rect x="0" y="1641.26" width="14.1732" height="42.5197" class="st5"/>
+			</g>
+			<g id="shape66-128" v:mID="66" v:groupContext="shape" v:layerMember="1" transform="translate(28.3465,-155.906)"
+					display="none">
+				<title>Лист.66</title>
+				<rect x="0" y="1655.43" width="14.1732" height="28.3465" class="st5"/>
+			</g>
+			<g id="shape67-130" v:mID="67" v:groupContext="shape" v:layerMember="1" transform="translate(14.1732,-155.906)"
+					display="none">
+				<title>Лист.67</title>
+				<rect x="0" y="1655.43" width="14.1732" height="28.3465" class="st5"/>
+			</g>
+		</g>
+		<g id="shape68-132" v:mID="68" v:groupContext="shape" v:layerMember="2" transform="translate(1845.35,-127.559)">
+			<title>Лист.68</title>
+			<path d="M0 1683.78 L524.41 1683.78" class="st6"/>
+		</g>
+		<g id="shape69-135" v:mID="69" v:groupContext="shape" v:layerMember="2" transform="translate(1845.35,-85.0394)">
+			<title>Лист.69</title>
+			<path d="M0 1683.78 L524.41 1683.78" class="st6"/>
+		</g>
+		<g id="shape70-138" v:mID="70" v:groupContext="shape" v:layerMember="2" transform="translate(1845.35,-99.2126)">
+			<title>Лист.70</title>
+			<path d="M0 1683.78 L184.25 1683.78" class="st6"/>
+		</g>
+		<g id="shape71-141" v:mID="71" v:groupContext="shape" v:layerMember="2" transform="translate(2228.03,-70.8661)">
+			<title>Лист.71</title>
+			<path d="M0 1683.78 L141.73 1683.78" class="st6"/>
+		</g>
+		<g id="shape72-144" v:mID="72" v:groupContext="shape" v:layerMember="2" transform="translate(2228.03,-56.6929)">
+			<title>Лист.72</title>
+			<path d="M0 1683.78 L141.73 1683.78" class="st6"/>
+		</g>
+		<g id="shape73-147" v:mID="73" v:groupContext="shape" v:layerMember="2" transform="translate(3911.81,1598.74) rotate(90)">
+			<title>Лист.73</title>
+			<path d="M0 1683.78 L70.87 1683.78" class="st6"/>
+		</g>
+		<g id="shape74-150" v:mID="74" v:groupContext="shape" v:layerMember="2" transform="translate(3954.33,1598.74) rotate(90)">
+			<title>Лист.74</title>
+			<path d="M0 1683.78 L28.35 1683.78" class="st6"/>
+		</g>
+		<g id="shape75-153" v:mID="75" v:groupContext="shape" v:layerMember="2" transform="translate(3996.85,1598.74) rotate(90)">
+			<title>Лист.75</title>
+			<path d="M0 1683.78 L28.35 1683.78" class="st6"/>
+		</g>
+		<g id="shape76-156" v:mID="76" v:groupContext="shape" v:layerMember="2" transform="translate(3557.48,1556.22) rotate(90)">
+			<title>Лист.76</title>
+			<path d="M0 1683.78 L42.52 1683.78" class="st6"/>
+		</g>
+		<g id="shape77-159" v:mID="77" v:groupContext="shape" v:layerMember="2" transform="translate(3585.83,1556.22) rotate(90)">
+			<title>Лист.77</title>
+			<path d="M0 1683.78 L113.39 1683.78" class="st6"/>
+		</g>
+		<g id="shape78-162" v:mID="78" v:groupContext="shape" v:layerMember="2" transform="translate(3642.52,1556.22) rotate(90)">
+			<title>Лист.78</title>
+			<path d="M0 1683.78 L113.39 1683.78" class="st6"/>
+		</g>
+		<g id="shape79-165" v:mID="79" v:groupContext="shape" v:layerMember="2" transform="translate(3685.04,1556.22) rotate(90)">
+			<title>Лист.79</title>
+			<path d="M0 1683.78 L113.39 1683.78" class="st6"/>
+		</g>
+		<g id="shape80-168" v:mID="80" v:groupContext="shape" v:layerMember="2" transform="translate(3614.17,1556.22) rotate(90)">
+			<title>Лист.80</title>
+			<path d="M0 1683.78 L42.52 1683.78" class="st6"/>
+		</g>
+		<g id="shape81-171" v:mID="81" v:groupContext="shape" v:layerMember="2" transform="translate(3713.39,1556.22) rotate(90)">
+			<title>Лист.81</title>
+			<path d="M0 1683.78 L113.39 1683.78" class="st6"/>
+		</g>
+		<g id="shape82-174" v:mID="82" v:groupContext="shape" v:layerMember="2" transform="translate(3529.13,1556.22) rotate(90)">
+			<title>Лист.82</title>
+			<path d="M0 1683.78 L113.39 1683.78" class="st7"/>
+		</g>
+		<g id="shape83-177" v:mID="83" v:groupContext="shape" v:layerMember="2" transform="translate(4053.54,1556.22) rotate(90)">
+			<title>Лист.83</title>
+			<path d="M0 1683.78 L113.39 1683.78" class="st6"/>
+		</g>
+		<g id="shape85-180" v:mID="85" v:groupContext="shape" v:layerMember="0" transform="translate(1873.7,-85.0394)"
+				display="none">
+			<title>Лист.85</title>
+			<desc>Кол.уч.</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="1676.69" width="28.35" height="14.1732"/>
+			<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st8"/>
+			<text x="0.64" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Кол.уч.</text>		</g>
+		<g id="shape86-183" v:mID="86" v:groupContext="shape" v:layerMember="0" transform="translate(1845.35,-85.0394)"
+				display="none">
+			<title>Лист.86</title>
+			<desc>Изм.</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="1676.69" width="28.35" height="14.1732"/>
+			<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st8"/>
+			<text x="5.96" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Изм.</text>		</g>
+		<g id="shape87-186" v:mID="87" v:groupContext="shape" v:layerMember="0" transform="translate(1902.05,-85.0394)"
+				display="none">
+			<title>Лист.87</title>
+			<desc>Лист</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="1676.69" width="28.35" height="14.1732"/>
+			<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st8"/>
+			<text x="4.51" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Лист</text>		</g>
+		<g id="shape88-189" v:mID="88" v:groupContext="shape" v:layerMember="0" transform="translate(1930.39,-85.0394)"
+				display="none">
+			<title>Лист.88</title>
+			<desc>№ док.</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="1676.69" width="28.35" height="14.1732"/>
+			<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st8"/>
+			<text x="0.64" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>№ док.</text>		</g>
+		<g id="shape89-192" v:mID="89" v:groupContext="shape" v:layerMember="0" transform="translate(1958.74,-85.0394)"
+				display="none">
+			<title>Лист.89</title>
+			<desc>Подп</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="1676.69" width="42.52" height="14.1732"/>
+			<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st8"/>
+			<text x="11.91" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Подп</text>		</g>
+		<g id="shape90-195" v:mID="90" v:groupContext="shape" v:layerMember="0" transform="translate(2001.26,-85.0394)"
+				display="none">
+			<title>Лист.90</title>
+			<desc>Дата</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="14.1732" cy="1676.69" width="28.35" height="14.1732"/>
+			<rect x="0" y="1669.61" width="28.3465" height="14.1732" class="st8"/>
+			<text x="3.22" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Дата</text>		</g>
+		<g id="shape91-198" v:mID="91" v:groupContext="shape" v:layerMember="0" transform="translate(2228.03,-70.8661)"
+				display="none">
+			<title>Лист.91</title>
+			<desc>Стадия</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="1676.69" width="42.52" height="14.1732"/>
+			<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st8"/>
+			<text x="6.76" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Стадия</text>		</g>
+		<g id="shape92-201" v:mID="92" v:groupContext="shape" v:layerMember="0" transform="translate(2270.55,-70.8661)"
+				display="none">
+			<title>Лист.92</title>
+			<desc>Лист</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="21.2598" cy="1676.69" width="42.52" height="14.1732"/>
+			<rect x="0" y="1669.61" width="42.5197" height="14.1732" class="st8"/>
+			<text x="11.59" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Лист</text>		</g>
+		<g id="shape93-204" v:mID="93" v:groupContext="shape" v:layerMember="0" transform="translate(2313.07,-70.8661)"
+				display="none">
+			<title>Лист.93</title>
+			<desc>Листов</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="1676.69" width="56.7" height="14.1732"/>
+			<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st8"/>
+			<text x="14.17" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Листов</text>		</g>
+		<g id="shape94-207" v:mID="94" v:groupContext="shape" v:layerMember="0" transform="translate(-1646.93,1669.61) rotate(-90)"
+				display="none">
+			<title>Лист.94</title>
+			<desc>Инв. № подл.</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1676.69" width="70.87" height="14.1732"/>
+			<rect x="0" y="1669.61" width="70.8661" height="14.1732" class="st8"/>
+			<text x="9.65" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Инв. № подл.</text>		</g>
+		<g id="group96-210" transform="translate(22.6772,-85.0394)" v:mID="96" v:groupContext="group">
+			<title>Лист.96</title>
+			<g id="shape95-211" v:mID="95" v:groupContext="shape" v:layerMember="0"
+					transform="translate(-1669.61,1683.78) rotate(-90)" display="none">
+				<title>Лист.95</title>
+				<desc>Подп.и дата</desc>
+				<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+				<v:textRect cx="49.6063" cy="1676.69" width="99.22" height="14.1732"/>
+				<rect x="0" y="1669.61" width="99.2126" height="14.1732" class="st8"/>
+				<text x="24.79" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Подп.и дата</text>			</g>
+		</g>
+		<g id="shape97-214" v:mID="97" v:groupContext="shape" v:layerMember="0" transform="translate(-1646.93,1499.53) rotate(-90)"
+				display="none">
+			<title>Лист.97</title>
+			<desc>Взам. инв. №</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="35.4331" cy="1676.69" width="70.87" height="14.1732"/>
+			<rect x="0" y="1669.61" width="70.8661" height="14.1732" class="st8"/>
+			<text x="9.17" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Взам. инв. №</text>		</g>
+		<g id="shape98-217" v:mID="98" v:groupContext="shape" v:layerMember="1" transform="translate(-1655.43,1428.66) rotate(-90)"
+				display="none">
+			<title>Лист.98</title>
+			<desc>Согласовано</desc>
+			<v:textBlock v:margins="rect(0,0,0,0)" v:tabSpace="42.5197"/>
+			<v:textRect cx="28.3465" cy="1676.69" width="56.7" height="14.1732"/>
+			<rect x="0" y="1669.61" width="56.6929" height="14.1732" class="st8"/>
+			<text x="3.21" y="1679.19" class="st9" v:langID="1049"><v:paragraph v:spLine="-1" v:horizAlign="1"/><v:tabList/>Согласовано</text>		</g>
+		<g id="shape99-220" v:mID="99" v:groupContext="shape" v:layerMember="4" transform="translate(2341.42,-1649.76)">
+			<title>Лист.99</title>
+			<rect x="0" y="1663.94" width="28.3465" height="19.8425" class="st10"/>
+		</g>
+	</g>
+</svg>
